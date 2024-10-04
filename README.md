@@ -131,5 +131,3 @@ The proposed system offers a comprehensive suite of features designed to enhance
 12. **Social Media Integration**:
     - Integration with social media platforms for sharing food orders and experiences.
     - Helps promote restaurants and generate user-generated content.
-
-These features collectively aim to create a robust and engaging platform for users and restaurant owners alike.
